@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QuizEnglish</string>
+    <string name="btn1">Вопросы по Грамматике</string>
+    <string name="btn2">Пропуски в фраз</string>
+    <string name="btn3">Переводы фраз</string>
+    <string name="btn4">Изучение слов</string>
+    <string name="btnInGrammar">Праверить</string>
+</resources>
